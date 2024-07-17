@@ -5,7 +5,7 @@ Scrabble Duel is a command-line program in C that computes the Scrabble score of
 
 <div align="center">
 
-<img src="https://github.com/m-saylor/scrabble-duel/blob/main/Scrabble-Duel.GIF" width="30%" height="30%" />
+<img src="https://github.com/madison-nicole/scrabble-duel/blob/main/Scrabble-Duel.GIF" width="30%" height="30%" />
 
 </div>
 
